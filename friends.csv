@@ -1,4 +1,8 @@
-Names	A	B	C
-A	0	5	2
-B	4	0	2
-C	7	5	0
+Names	Akhil	Amrit	Ramnik	Girish	Namit	Gurwinder	Teddy
+Akhil	0	9	8	7	7	7	6
+Amrit	9	0	8	6	7	8	7
+Ramnik	9	9	0	7	7	8	6
+Girish	8	7	8	0	8	7	8
+Namit	8	7	7	8	0	10	9
+Gurwinder	7	8	7	8	9	0	6
+Teddy	8	8	7	8	9	7	0

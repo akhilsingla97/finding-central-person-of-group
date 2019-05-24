@@ -39,7 +39,7 @@ csvFile.close()
 
 final_scores = {}
 
-for i in range(100):
+for i in range(10):
     for person in init_scores:
         final_scores[person] = 0.15 * init_scores[person]
         other_contri = 0.0
